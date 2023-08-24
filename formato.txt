@@ -1,0 +1,5 @@
+1. Por el tipo de arquitectura, o las caracteristicas de las bibliotecas, el lenguaje puede no ser compatible
+2. soporta gran variedad como windows, lunux, macos y otros.
+3. Es el componente clave en la virtualizaciòn ya que actua como capa de abstacciòn entre los SO y el hardware
+4. Cada maquina es aislada y no debe afectar a las demas.
+
